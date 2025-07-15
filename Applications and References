@@ -1,0 +1,31 @@
+Applications
+Statistical Analysis: Pair trading is employed by statisticians and data scientists as a tool for statistical analysis and time series modeling. By examining historical price data of related assets, they can identify patterns, correlations, and deviations from expected trends. This analysis aids in developing statistical models that enhance predictive accuracy in financial markets.
+
+•Portfolio Risk Management: In the realm of portfolio risk management, pair trading plays a key role. It allows the creation of market-neutral strategies within investment portfolios. By taking long and short positions on correlated assets, investors can mitigate overall market risk, making their portfolios less susceptible to market fluctuations and potentially increasing overall stability.
+
+•Research and Analysis: Pair trading serves as a valuable method for conducting research and testing hypotheses concerning asset relationships. Researchers can explore the dynamics between asset pairs and validate various theories or trading strategies. This analysis not only deepens our understanding of financial markets but can also lead to the development of more effective investment approaches.
+
+
+
+References
+Pair Trading in Cryptocurrencies
+
+1. Chen, Y., Huang, Z., & Lai, W. (2022). Profitability of pair trading in cryptocurrency markets. Finance Research Letters, 52,
+
+102620. https://www.sciencedirect.com/science/article/abs/pii/S0275531919303472
+
+2. Zhang, W., & Lai, C. (2021). Risk reduction with pair trading in cryptocurrency portfolios. International Journal of Financial Studies, 9(4), 149. https://www.mdpi.com/2227-9091/11/7/122
+
+3. Kristou, A., & loannou, E. (2018). Pair trading in the bitcoin market. Finance Research Letters, 27, 148-154. https://
+
+www.sciencedirect.com/science/article/pii/S1703494922000305
+
+Neural Networks for Trading:
+
+4. Atsalakis, P. E., & Valtchev, S. (2018). Deep learning in finance: A survey. Journal of Banking and Finance, 94, 298-314. https:// www.sciencedirect.com/science/article/pii/S1568494620303240
+
+5.
+
+Jiang, F., Li, Y., & Tian, Y. (2020). A hybrid attention-based LSTM model for stock price prediction. Applied Soft Computing, 78,
+
+107209. https://paperswithcode.com/paper/attention-based-cnn-Istm-and-xgboost-hybrid 
